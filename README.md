@@ -18,6 +18,6 @@ Then run the script.
 * **Arguments**
 1. 'type' has 3 options: "baseline", "cVAE", "cGAN"
 2. 'HHW' denote [subject height, left hand height, right hand height, left hand width, right hand width]\
-For more details, please refer to our paper (on going).
+For more details, please refer to our paper (ongoing).
 ## Example
 <img src="https://github.com/LLDavid/Lifting-Posture-Prediction/blob/master/images/example.PNG" width="500">
