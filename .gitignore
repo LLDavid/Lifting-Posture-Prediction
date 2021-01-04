@@ -1,6 +1,4 @@
-.\\**\\*.npy
-.\\**\\*.pickle
-.\\**\\*.pth
-./**/*.npy
-./**/*.pickle
-./**/*.pth
+weights/
+**/*.npy
+**/*.pickle
+**/*.pth
