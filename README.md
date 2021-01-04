@@ -20,4 +20,4 @@ Then run the script.
 2. 'HHW' denote [subject height, left hand height, right hand height, left hand width, right hand width]\
 For more details, please refer to our paper (on going).
 ## Example
-![load_data](https://github.com/LLDavid/Lifting-Posture-Prediction/blob/master/images/example.PNG==50x)
+![load_data](https://github.com/LLDavid/Lifting-Posture-Prediction/blob/master/images/example.PNG)
