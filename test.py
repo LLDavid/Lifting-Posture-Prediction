@@ -7,7 +7,7 @@ from shutil import copy
 from model import models
 import argparse
 
-def model_test(type="baseline", HHW=[1.67, 0.6,0.6,0.45,0.45]):
+def model_test(type=None, HHW=None):
 
     # pkl path
     wt_pkl_path = os.path.join(".","weights",type+".pickle")
