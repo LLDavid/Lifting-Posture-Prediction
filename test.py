@@ -84,7 +84,7 @@ if __name__ == '__main__':
     parser.add_argument("--HHW", help="list of 5 numbers", type=float, nargs='+')
     args = parser.parse_args()
 
-    if args.type and args.HHW: 
+    if args.type and args.HHW: # for linux UI
         model_test(type=args.type, HHW=args.HHW)
     else:
         model_test(type="baseline", HHW=[1.67, 0.6,0.6,0.45,0.45])
