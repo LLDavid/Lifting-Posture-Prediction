@@ -220,10 +220,3 @@ class pose_visualizer:
 
 
 
-
-
-
-# if __name__ == "__main__":
-#    # x = np.load(r'F:\Research\MyPaper\IKGan\pycode\data\MOPED25\x_moped25_mini.npy')
-#    # a=pose_visualizer()
-#    # a.pose37_3d(pose_all=x)
