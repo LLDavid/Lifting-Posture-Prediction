@@ -21,5 +21,6 @@ Then run the script.
 For more details, please refer to our paper (ongoing).
 ## Hyper-parameters.
 <img src="https://github.com/LLDavid/Lifting-Posture-Prediction/blob/master/images/hyperp.png" width="800">
-## Example
+
+## Example.
 <img src="https://github.com/LLDavid/Lifting-Posture-Prediction/blob/master/images/example.PNG" width="500">
