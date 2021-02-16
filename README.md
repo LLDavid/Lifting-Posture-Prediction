@@ -19,8 +19,7 @@ Then run the script.
 1. 'type' has 3 options: "baseline", "cVAE", "cGAN"
 2. 'HHW' denote [subject height, left hand height, right hand height, left hand width, right hand width]\
 For more details, please refer to our paper (ongoing).
-## Hyper-parameters.
-<img src="https://github.com/LLDavid/Lifting-Posture-Prediction/blob/master/images/hyperp.png" width="800">
-
 ## Example.
 <img src="https://github.com/LLDavid/Lifting-Posture-Prediction/blob/master/images/example.PNG" width="500">
+## Hyper-parameters used in training.
+<img src="https://github.com/LLDavid/Lifting-Posture-Prediction/blob/master/images/hyperp.png" width="800">
