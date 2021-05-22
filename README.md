@@ -11,7 +11,7 @@ Baseline NN/cGAN/cVAE
 2. Run:\
 ```python test.py --type "baseline" --HHW 1.70 0.45 0.45 0.45 0.45```
 * **For python IDE on wins:**
-1. Down this repo.
+1. Download this repo.
 2. Open 'test.py'. Edit the input argument 'type' and 'HHW' as you want:\
 ```model_test(type="baseline", HHW=[1.67, 0.6,0.6,0.45,0.45])```\
 Then run the script.
@@ -22,5 +22,6 @@ For more details, please refer to our paper (ongoing).
 ## Example.
 <img src="https://github.com/LLDavid/Lifting-Posture-Prediction/blob/master/images/example.PNG" width="500">
 
+## Calculating joint angles and segment lengths from bony landmarks. ([Link](https://www.overleaf.com/read/hbjjmbmrmfmv))
 ## Selected Hypaer-parameters and Candidates.
 <img src="https://github.com/LLDavid/Lifting-Posture-Prediction/blob/master/images/hyperp.png" width="800">
